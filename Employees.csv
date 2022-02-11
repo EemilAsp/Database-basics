@@ -1,0 +1,11 @@
+employee_id,department_id,first_name,last_name,email,telephone,gender
+1,4,Brian,Kottarainen,Brian.Kottarainen@gmail.com,5013213188,Male
+2,3,Mac,Intosh,Mac.Intosh@gmail.com,3131131318,
+3,1,Josh,Jordan,Josh.Jordan@gmail.com,1331231133,Male
+4,5,Javale,McGee,Javale.McGee@gmail.com,1313133113,Male
+5,1,Michael,Bryant,Michael.Bryant@gmail.com,4532142353,
+6,3,Jordan,Johnson,Jordan.Johnson@gmail.com,2525525299,Male
+7,2,Magic ,O'Neal,Magic.O'Neal@gmail.com,2569991319,
+8,2,Ruth,Langmore,Ruth.Langmore@gmail.com,5252555555,
+9,5,Julia,Windows,Julia.Windows@gmail.com,5522524122,Female
+,,,,,3123131313,Female

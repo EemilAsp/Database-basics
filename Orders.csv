@@ -1,0 +1,10 @@
+order_id,customer_id,department_id,employee_id,
+1,1,1,5,Michael
+2,5,1,3,Josh Jordan
+3,2,2,7,Magic
+4,3,3,2,Mac intosh
+5,5,3,6,Jordan
+6,1,4,1,Brian
+7,3,4,1,Brian
+8,2,5,9,Julia
+9,6,5,4,Javale
